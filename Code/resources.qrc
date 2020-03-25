@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/cube.obj</file>
+        <file>models/flat_surface.obj</file>
+        <file>textures/cat_diff.png</file>
+        <file>textures/cat_norm.png</file>
+        <file>textures/cat_spec.png</file>
+        <file>textures/rug_logo.png</file>
+        <file>models/cat.obj</file>
+        <file>models/sphere.obj</file>
+        <file>shaders/fragshader_phong.glsl</file>
+        <file>shaders/fragshader_screen.glsl</file>
+        <file>shaders/vertshader_phong.glsl</file>
+        <file>shaders/vertshader_screen.glsl</file>
+        <file>shaders/fragshader_blur_vertical.glsl</file>
+        <file>shaders/fragshader_blur_horizontal.glsl</file>
+        <file>shaders/fragshader_high_pass.glsl</file>
+        <file>shaders/vertshader_shadow.glsl</file>
+        <file>shaders/fragshader_shadow.glsl</file>
+        <file>textures/leaves.png</file>
+        <file>textures/bark.png</file>
+        <file>models/bark.obj</file>
+        <file>models/leaves.obj</file>
+        <file>textures/leaves_mask.png</file>
+        <file>textures/blank.png</file>
+        <file>textures/sand.png</file>
+        <file>models/island.obj</file>
+        <file>models/ocean.obj</file>
+        <file>textures/white.png</file>
+        <file>textures/gradient.png</file>
+    </qresource>
+</RCC>
