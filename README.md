@@ -1,3 +1,3 @@
 # Isolation
 
-![](https://gfycat.com/informalhardtofinddrongo)
+![](Screenshots/palm.gif)
