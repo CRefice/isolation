@@ -1,1 +1,3 @@
-# Competition Entry - Isolation
+# Isolation
+
+![](https://gfycat.com/informalhardtofinddrongo)
