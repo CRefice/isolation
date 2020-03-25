@@ -8,6 +8,10 @@ _Isolation_ is an experiment of what can be achieved with _framebuffers_, with a
 
 All of the meshes and textures used in this project are either royalty-free, or were created by myself.
 
+## Building instructions
+
+The project is based on OpenGL3, and as such, the build instructions are the same for both. Simply open the `Isolation.pro` project in the Code folder with QtCreator, and build the project in either debug or release mode.
+
 ## HDR / Bloom
 
 By rendering to a floating-point framebuffer, one can produce colors exceeding the [0.0, 1.0] range. The range of visible colors can then be adjusted through a fragment shader, using a so-called _exposure_ parameter.  
