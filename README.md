@@ -12,6 +12,10 @@ All of the meshes and textures used in this project are either royalty-free, or 
 
 The project is based on OpenGL3, and as such, the build instructions are the same for both. Simply open the `Isolation.pro` project in the Code folder with QtCreator, and build the project in either debug or release mode.
 
+## Moving about
+
+You can rotate around the scene by clicking and dragging the mouse, as well as zooming with the scroll wheel. Press the R key to reset the view to its starting position.
+
 ## HDR / Bloom
 
 By rendering to a floating-point framebuffer, one can produce colors exceeding the [0.0, 1.0] range. The range of visible colors can then be adjusted through a fragment shader, using a so-called _exposure_ parameter.  
