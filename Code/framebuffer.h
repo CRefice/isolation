@@ -31,7 +31,7 @@ public:
   GLuint gl_handle() { return rbo; }
 
 private:
-  GLuint rbo;
+  GLuint rbo = 0;
 };
 
 class Framebuffer : protected QOpenGLFunctions_3_3_Core {
@@ -63,7 +63,7 @@ public:
 
 private:
   std::vector<GLenum> color_attachments;
-  GLuint fbo;
+  GLuint fbo = 0;
 };
 
 #endif // FRAMEBUFFER_H

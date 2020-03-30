@@ -39,6 +39,6 @@ public:
 private:
   void set_parameters();
 
-  GLuint handle;
+  GLuint handle = 0;
 };
 #endif // TEXTURE_H
